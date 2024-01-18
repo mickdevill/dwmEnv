@@ -10,7 +10,9 @@ libxft
 
 //for rice
 
-xcompmgr
+xcompmgr //make transparensy
+xwallpeper //for wallpeper
+libalsa-ocaml-dev //for dwmstatus to compile
 
 
 //TO do
