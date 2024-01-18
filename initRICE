@@ -1,0 +1,49 @@
+#!/bin/zsh
+
+
+
+
+
+  xcompmgr &
+
+dwmstatus &
+
+
+
+#outs from right to lewd:
+
+#Rightest (old philips)  = DP-4
+#main (main philips)  = DP-2 
+#the only DELL = DP-1
+#leftest (piano philips)~~ = HDMI-0 
+
+
+
+
+
+xwallpaper --output DP-4 --zoom /home/mickdevil/wallpepers/cat-future-robot-cat-window.png
+
+xwallpaper --output DP-2 --zoom  /home/mickdevil/wallpepers/cyberPunkSamuraiGirl.jpg
+
+xwallpaper --output DP-1 --zoom /home/mickdevil/wallpepers/hackAngel.jpg
+
+xwallpaper --output HDMI-0 --zoom /home/mickdevil/wallpepers/neonSunDown.png
+
+
+
+
+
+
+
+#wallpaper --output DP-2 --zoom /home/mickdevil/wallpepers/blackSoulsPosterScaled.png
+#xwallpaper --output DP-4 --zoom /home/mickdevil/wallpepers/leaf.png
+
+
+#xwallpaper --output DP-2 --center /home/mickdevil/myProjects/GimpProgets/blackArchForPavel.png
+
+
+# xwallpaper --zoom /home/mickdevil/wallpepers/arch_kde_styled.png
+# xwallpaper --zoom /home/mickdevil/wallpepers/devushka-anime-ryzhaia.jpg
+# xwallpaper --zoom /home/mickdevil/wallpepers/devushka-khram-flag-anime.jpg
+# xwallpaper --zoom /home/mickdevil/wallpepers/drakon-anime-art-devochka.jpg
+

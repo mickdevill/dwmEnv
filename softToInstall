@@ -1,0 +1,30 @@
+emacs
+sudo
+firefox
+
+bash-cmpletions
+xorg
+libxinerama
+freetype2
+libxft
+
+//for rice
+
+xcompmgr
+
+
+//TO do
+
+WRITE "exec dwm" to ur .xinitrc file
+
+// KEYBOARD CONF
+
+/etc/X11/xorg.conf.d/00-keyboard.conf
+
+Section "InputClass"
+        Identifier "system-keyboard"
+        MatchIsKeyboard "on"
+        Option "XkbLayout" "fr,ru"
+        Option "XkbModel" "pc105"
+        Option "XkbOptions" "grp:win_space_toggle"
+EndSection
